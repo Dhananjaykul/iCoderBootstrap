@@ -14,6 +14,6 @@ To deploy this website to a server using Docker, follow these steps:
 3. Build the Docker image using docker build -t icoderbootstrap:latest .
 4. Deploy the Docker container using docker-compose up -d
 ## Deployment using Jenkins CI/CD
-  [Click here]([https://github.com/Dhananjaykul/iCoderBootstrap](https://dhananjaykulkarni.hashnode.dev/building-a-continuous-deployment-pipeline-with-jenkins-and-docker-for-icoderbootstrap)) to view the project blog in detailed.
+  For more detailed instructions and insights, refer to the accompanying [blog post](https://dhananjaykulkarni.hashnode.dev/building-a-continuous-deployment-pipeline-with-jenkins-and-docker-for-icoderbootstrap) on Hashnode. 📖
 ## Author
 This website was built by Dhananjay Kulkarni.
